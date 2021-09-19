@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <a href="https://hub.docker.com/u/hyojin0712" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 </p>
 
-![Hyoging's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyoging&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyoging&langs_count=4&layout=compact&theme=dark)](https://github.com/hyoging)﻿
+![Hyoging's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyoging&show_icons=true&theme=white)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyoging&langs_count=8&layout=compact&theme=white)](https://github.com/hyoging)﻿
 
 
