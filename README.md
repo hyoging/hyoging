@@ -28,11 +28,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a> &nbsp 
 </p>
-<h3 align="center"><b>🤍 Account 🤍</b></h3>
-</br>
-<p align="center">
-<a href="https://www.instagram.com/h_yo._.jin/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://hub.docker.com/u/hyojin0712" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
+
 </p>
 
 ![Hyoging's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyoging&show_icons=true&theme=white)
